@@ -7,7 +7,7 @@ poetry shell
 ```
 
 ```
-poetry `install
+poetry install
 ```
 
 ```
